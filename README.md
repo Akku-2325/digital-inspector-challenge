@@ -1,0 +1,2 @@
+# digital-inspector-challenge
+AI Challenge to detect signatures, stamps, and QR codes on construction documents
